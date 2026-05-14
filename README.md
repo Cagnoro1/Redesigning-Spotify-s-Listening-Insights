@@ -1,6 +1,10 @@
 # Redesigning-Spotify's-Listening-Insights
 Redesigning Spotify’s Listening Insights: Improving Access to Personal Music Statistics Beyond Spotify Wrapped
 
+Video prototype link: https://youtu.be/YMykJ4vsi8c?si=Xp0E-heJeLzBFmXZ 
+Figma prototype access:  Figma prototype
+
+
 ## INTRODUCTION
 Spotify is one of the most used music streaming applications in the world offering personalized songs recommendations, podcasts and audiobooks  to its users through an interactive mobile and desktop interface. In 2016, Spotify released the “Spotify Wrapped” which is an annual summary that presents to all users their insights and listening habits of the past year. It shows their most played artists, songs, albums, genres and their yearly time of listening. While Spotify Wrapped is highly engaging and AI was more integrated over the years, it only appears once a year providing users visual and  data driven personalized stories. 
 
