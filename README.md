@@ -2,6 +2,7 @@
 Redesigning Spotify’s Listening Insights: Improving Access to Personal Music Statistics Beyond Spotify Wrapped
 
 Video prototype link: https://youtu.be/YMykJ4vsi8c?si=Xp0E-heJeLzBFmXZ 
+
 Figma prototype access:  https://www.figma.com/proto/qPiuCsryw8VAMdyIzndf6Z/Final-Redesigning-Spotify%E2%80%99s-Listening-Insights?page-id=0%3A1&node-id=65-1726&p=f&viewport=-15%2C212%2C0.13&t=qrDdvUSLaq3K9TfW-1&scaling=scale-down&content-scaling=fixed 
 
 
